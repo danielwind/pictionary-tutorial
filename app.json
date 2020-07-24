@@ -19,8 +19,8 @@
     "ios": {
       "supportsTablet": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "net.danielwind.pictionary"
     }
   }
 }
